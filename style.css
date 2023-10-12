@@ -1,0 +1,9 @@
+body{
+    font-size: 20px;
+    background-color: blue;
+    color: brown;
+    padding: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
